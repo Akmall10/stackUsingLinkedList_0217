@@ -93,7 +93,7 @@ int main()
     cin >> choice;
 
     switch (choice)
-    {
+   {
     case 1:
         cout << "Enter the value to push : ";
         cin >> value;
@@ -112,7 +112,28 @@ int main()
             << endl;
         }
         break;
-    }
+        case 3:
+        if (!stact.isEmpty())
+        {
+            stact.peek();
+
+        }
+        else
+        {
+            cout << "Stact is Empty.No top value. "
+            << endl;
+        }
+          case 4:
+            cout << "Exiting Program. "<< endl;
+            break;
+    default:
+             cout << "invalid choice. Try again. " << endl;
+            break;
+
+    }   
+    cout << endl;
 
    }
+   return 0;
+
  }
