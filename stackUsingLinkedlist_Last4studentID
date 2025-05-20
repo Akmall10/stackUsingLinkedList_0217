@@ -105,6 +105,13 @@ int main()
         {
             stact.pop();
         }
+        else
+        {
+
+            cout << " Stact is E mpty.Cannot pop."
+            << endl;
+        }
+        break;
     }
 
    }
