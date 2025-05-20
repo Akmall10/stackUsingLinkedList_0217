@@ -77,18 +77,35 @@ bool isEmpty()
 
 int main()
 {
-    Stack stact;
+   Stack stact;
 
-    int choice = 0;
-    int value;
+   int choice = 0;
+   int value;
 
-    while (choice != 5)
+   while (choice != 5)
+   {
+
+    cout << "1. Push\n";
+    cout << "2. Pop\n";
+    cout << "3. Peek\n";
+    cout << "4. Exit\n";
+    cout << "Enter your choice : ";
+    cin >> choice;
+
+    switch (choice)
     {
+    case 1:
+        cout << "Enter the value to push : ";
+        cin >> value;
+        stact.push(value);
+        break;
 
-        cout << "1. Push\n";
-        cout << "2. Pop\n";
-        cout << "3. peek\n";
-        cout << "4. Exit\n";
-        cout << "Enter your choice : ";
+    case 2:
+        if (!stact.isEmpty())
+        {
+            stact.pop();
+        }
     }
-}
+
+   }
+ }
