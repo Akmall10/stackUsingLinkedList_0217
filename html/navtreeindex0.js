@@ -1,0 +1,26 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_node.html":[0,0,0],
+"class_node.html#a2559a716f69ccaa76d648d9f1b83065e":[0,0,0,1],
+"class_node.html#a87c003c9f600e3fc58e6e90835f0b605":[0,0,0,0],
+"class_queue.html":[0,0,1],
+"class_queue.html#a36ab375d24d41bcc1d598c132700835b":[0,0,1,5],
+"class_queue.html#a3e0d42ab9a74d1c915fea58e4067e385":[0,0,1,2],
+"class_queue.html#a65d9b23c23c917faa44981539bc34be7":[0,0,1,4],
+"class_queue.html#a7cfca3637d57c4a9e37351b3426ffd40":[0,0,1,0],
+"class_queue.html#a9e7cf4e1319b62764653fdc67b649dd3":[0,0,1,6],
+"class_queue.html#ab1e4ece63bf40b6c39eca24c7a8c2bb5":[0,0,1,3],
+"class_queue.html#ab86e57220e48d14cea37f17cb4fbf2b0":[0,0,1,1],
+"classes.html":[0,1],
+"files.html":[1,0],
+"functions.html":[0,2,0],
+"functions_func.html":[0,2,1],
+"functions_vars.html":[0,2,2],
+"globals.html":[1,1,0],
+"globals_func.html":[1,1,1],
+"index.html":[],
+"pages.html":[],
+"ucpalgo4_8cpp.html":[1,0,0],
+"ucpalgo4_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[1,0,0,2]
+};
